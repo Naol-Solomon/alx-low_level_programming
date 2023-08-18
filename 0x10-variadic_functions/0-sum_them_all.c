@@ -7,7 +7,7 @@
  *@n: number of parameters the function take
  *@...: variability of number of parameters
  *
- *Return: if n == 0-0 
+ *Return: if n == 0-0
  */
 int sum_them_all(const unsigned int n, ...)
 {
