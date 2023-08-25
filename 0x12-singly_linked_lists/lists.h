@@ -1,5 +1,3 @@
-#define LIST_H
-
 #ifndef LIST_H
 #define lIST_H
 
