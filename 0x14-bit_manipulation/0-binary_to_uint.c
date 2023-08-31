@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * binary_to_unit- convert to b
+ * binary_to_uint- function for converting binary to integers
  * @b: pointer to string
  * Return: converted number
  */
