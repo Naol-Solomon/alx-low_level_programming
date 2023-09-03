@@ -7,12 +7,8 @@
  */
 int get_endianess(void)
 {
-	int x = 1;
+	unsigned int i = 1;
+	char *c = (char *) &i;
 
-	char *y = (char *)&x;
-
-	if (*y + 48 == 48)
-		return (0);
-	else
-		return (1);
+	return (*c);
 }
