@@ -11,7 +11,7 @@ size_t print_dlistint(const dlistint_t *h)
 	if (h == NULL)
 	{
 		printf("no data!");
-		return (EXIT_FAILURE);
+		return (number);
 	}
 	else
 	{
