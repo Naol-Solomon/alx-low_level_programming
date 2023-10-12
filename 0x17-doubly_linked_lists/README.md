@@ -1,1 +1,1 @@
-doubly linked list using C programming language
+Linked list using C programming
